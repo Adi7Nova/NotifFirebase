@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144011432867",
+    "firebase_url": "https://notiffirebase-f1294.firebaseio.com",
+    "project_id": "notiffirebase-f1294",
+    "storage_bucket": "notiffirebase-f1294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144011432867:android:732c7f9e503a6fc0c8c016",
+        "android_client_info": {
+          "package_name": "com.example.notiffirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144011432867-ktu6d30lepj858ult68evv8c39cdh0t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notiffirebase",
+            "certificate_hash": "405f2c2951250396eb57984114ac70b2069e27cb"
+          }
+        },
+        {
+          "client_id": "144011432867-e4bqge6omgkmnu5i5j9l855sie2cga1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5DpkxsA4F9bE4daNnOz74vbjt9RLqoEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144011432867-e4bqge6omgkmnu5i5j9l855sie2cga1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
